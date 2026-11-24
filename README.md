@@ -2,7 +2,7 @@
 
 Free, relaxing games with large print and no ads, for phones and Amazon Fire tablets.
 
-**Current version: build 36** (October 31, 2026)
+**Current version: build 38** (November 24, 2026)
 
 | App | Download |
 |---|---|
